@@ -28,7 +28,7 @@ Issueはリポジトリ毎に発行できるため、バグを報告するリポ
 まだクローズされていない[Issue](https://github.com/tonboAkinori/NameToVelocity/issues)に同様の報告がないか確認してください。
 
 ### バグの報告方法
-[テンプレート](.github/ISSUE_TEMPLATE/----.md)に従って情報を記入してIssueを作成してください　★ラベル付与する
+[バグ報告テンプレート](https://github.com/tonboAkinori/work2/issues/new?template=----.md&labels=bug)に従って情報を記入してIssueを作成してください　★ラベル付与する  
 下記はテンプレートの内容を抜粋したものです。
 
 - バグの説明  
@@ -42,10 +42,7 @@ Issueはリポジトリ毎に発行できるため、バグを報告するリポ
 - スクリーンショットやログ  
   必要に応じてスクリーンショットやログを貼り付けてください
 - 環境  
-  現象が発生時に使用した環境を出来るだけ記載してください  
-  OS Version: (例) Ubuntu 16.04 32bits  
-  OpenRTM-aist Version: (例) 1.2.0  
-  ...
+  現象が発生した時に使用してた環境を出来るだけ記載してください        
 - その他コメント    
   その他にこのバグに関してコメントがあれば記載してください
   
